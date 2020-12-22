@@ -10,4 +10,4 @@ I used a jupyter notebook to upload the Chinook database and perform some simple
 
 Click below to run the notebook:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karincv/ChinookDatabase/HEAD?filepath=https%3A%2F%2Fgithub.com%2Fkarincv%2FChinookDatabase%2Fblob%2Fmain%2FChinook-Blog.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karincv/ChinookDatabase/main?filepath=https%3A%2F%2Fgithub.com%2Fkarincv%2FChinookDatabase%2Fblob%2Fmain%2FChinook-Blog.ipynb)
